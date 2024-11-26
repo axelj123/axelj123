@@ -31,18 +31,6 @@ Here are some of the highlighted projects you can find on my [portfolio](https:/
 1. **Push Notifications with Spring Boot**  
    A solution that implements push notifications using Spring Boot. [Repository here](https://github.com/axelj123/ServiceNotification)
 
-2. **Facial Recognition App**  
-   A project focused on developing an application that uses facial recognition technology to authenticate users. [Repository here](https://github.com/axelj123/FaceRecognitionApp)
-
-3. **E-commerce Web Application**  
-   A responsive e-commerce platform developed using **React**, **Node.js**, and **MongoDB** to manage users, products, and transactions.
-
-4. **Personal Task Manager**  
-   A mobile app built with **React Native**, designed to help users efficiently manage their daily tasks.
-
-5. **RESTful API for Client Management**  
-   A scalable and secure backend built with **Spring Boot**, featuring JWT authentication, CRUD operations, and connectivity with relational databases.
-
 ### 📈 Latest Projects
 - [Push Notifications](https://github.com/axelj123/ServiceNotification)
 - More details on my [portfolio](https://axeldev.netlify.app/)

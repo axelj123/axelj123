@@ -1,6 +1,6 @@
 # Hi 👋, I'm Axel Muñoz
 
-![Tired Penguin Coding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1ZXprODhoYWlmNnA2bTRodzZzOG9vdmw0ZDllMmZic2Izd3cxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif)
+![Tired Penguin Coding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRqam53a3E5MTZkeWNqMnZ4YzA1Ym90cnd3MWJieTYwdTI0bW13eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51AhgeKNAamtcmcpGx/giphy.gif)
 
 ## 🚀 About Me
 - 💻 Developer of web and mobile applications
@@ -15,7 +15,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axelj123&show_icons=true&theme=radical)

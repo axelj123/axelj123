@@ -1,6 +1,6 @@
 # Hi 👋, I'm Axel Muñoz
 
-![Banner of AxelDevPe](https://imgur.com/a/TF23zRR)
+![Banner of AxelDevPe](https://imgur.com/lRQbCbS)
 
 ## 🚀 About Me
 - 💻 Developer of web and mobile applications

@@ -1,4 +1,4 @@
-# Hola 👋, soy [Tu Nombre]
+# Hola 👋, soy Axel Muñoz
 
 ## 🚀 Sobre mí
 - 💻 Desarrollador [tu especialidad]
@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
 
 ## Proyectos destacados
-- 🌐 [Nombre Proyecto 1](link-al-proyecto)
+- 🌐 [Push notification with spring boot](https://github.com/axelj123/ServiceNotification)
 - 🤖 [Nombre Proyecto 2](link-al-proyecto)
 
 ### 📈 Últimos proyectos

@@ -24,7 +24,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-AxelDevPe-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://axeldev.netlify.app/)
 
 ## 🌐 Portfolio
-Here are some of the highlighted projects you can find on my [portfolio](https://axeldev.netlify.app/):
+Here are some of the highlighted projects you can find on my [portfolio](https://axelmsilvadev.vercel.app/):
 
 ### 🚀 Featured Projects:
 1. **Push Notifications with Spring Boot**  

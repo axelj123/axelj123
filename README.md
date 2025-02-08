@@ -33,4 +33,4 @@ Here are some of the highlighted projects you can find on my [portfolio](https:/
 ### 📈 Latest Projects
 - [VentaTrack](https://github.com/axelj123/VentaTrack)
 - [Push Notifications](https://github.com/axelj123/ServiceNotification)
-- More details on my [portfolio](https://axeldev.netlify.app/)
+- More details on my [portfolio](https://axelmsilvadev.vercel.app/)
